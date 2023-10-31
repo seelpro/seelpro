@@ -1,4 +1,5 @@
-### Hi there 👋
+### Всех приветствую! 👋 Мое имя - Сергей. Руководитель направления по разработке электроники.
+
 
 <!--
 **seelpro/seelpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
