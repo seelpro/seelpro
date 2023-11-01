@@ -25,6 +25,9 @@
 - ESP32/C3/S2/S3 etc (WiFi/BT/BLE/I2S/I2C/SPI/ADC/CAN)
 - 8-битные МК PIC/STM8/AVR
 
+
+### Статистика на GitHub
+[![sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=seelpro&hide=stars,contribs,issues&show_icons=true)](https://github.com/seelpro/github-readme-stats)
 <!--
 **seelpro/seelpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
