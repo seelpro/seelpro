@@ -13,7 +13,7 @@
 ##### Devops:
 - Свой GitLab CI/CD
 - GitHub/DockerHub
-- Docker/K8s/Watchtower
+- Docker/K8s
 - Ansible/Jenkins
 
 ##### Программирование:
@@ -21,8 +21,10 @@
 - C/C++
 - JavaScript
 - HTML/CSS
+- PHP
 
 ##### Электроника, МК:
+- Raspberry Pi/Orange Pi/etc
 - STM32/GD32 (UART/RS485/CAN/I2S/SPI/I2C)
 - ESP32/C3/S2/S3 etc (WiFi/BT/BLE/I2S/I2C/SPI/ADC/CAN)
 - 8-битные МК PIC/STM8/AVR
