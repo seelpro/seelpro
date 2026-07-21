@@ -11,13 +11,11 @@
 
 #### Стек используемых технологий:
 ##### Ai:
-- ChatGPT
-- Claude
-- DeepSeek
-- LM Studio
-- llama.cpp
-- RAG (LangChain, QDrant, ollama, STT-TTS, SearXNG, aiogram)
-- 
+- Внешние - ChatGPT/Claude/DeepSeek
+- Локалные - LM Studio/ollama/llama.cpp
+- RAG (LangChain + QDrant + ollama + openai-API + STT-TTS + SearXNG + aiogram + FastAPI)
+- разработка - VS Code + Codex/Continue
+
 ##### Devops:
 - Свой GitLab CI/CD
 - GitHub/DockerHub
