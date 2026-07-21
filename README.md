@@ -10,6 +10,14 @@
 - Проектируем и изготавливаем пробные партии электроники
 
 #### Стек используемых технологий:
+##### Ai:
+- ChatGPT
+- Claude
+- DeepSeek
+- LM Studio
+- llama.cpp
+- RAG (LangChain, QDrant, ollama, STT-TTS, SearXNG, aiogram)
+- 
 ##### Devops:
 - Свой GitLab CI/CD
 - GitHub/DockerHub
@@ -19,14 +27,15 @@
 ##### Программирование:
 - Python/Micropython
 - C/C++
+- golang
 - JavaScript
 - HTML/CSS
 - PHP
 
 ##### Электроника, МК:
 - Raspberry Pi/Orange Pi/etc
-- STM32/GD32 (UART/RS485/CAN/I2S/SPI/I2C)
-- ESP32/C3/S2/S3 etc (WiFi/BT/BLE/I2S/I2C/SPI/ADC/CAN)
+- STM32/GD32 (USB/MAC/UART/RS485/CAN/I2S/SPI/I2C)
+- ESP32/C3/S2/S3 etc (USB/WiFi/BT/BLE/I2S/I2C/SPI/ADC/CAN)
 - 8-битные МК PIC/STM8/AVR
 
 
