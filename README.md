@@ -12,9 +12,10 @@
 #### Стек используемых технологий:
 ##### Ai:
 - Внешние - ChatGPT/Claude/DeepSeek
-- Локалные - LM Studio/ollama/llama.cpp
+- Локальные - LM Studio/ollama/llama.cpp
 - RAG (LangChain + QDrant + ollama + openai-API + STT-TTS + SearXNG + aiogram + FastAPI)
 - разработка - VS Code + Codex/Continue
+- самописанные агенты
 
 ##### Devops:
 - Свой GitLab CI/CD
@@ -44,12 +45,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Ьг Pet-project
+- 🌱 I’m currently learning GNSDO + TDMA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything)
+- 📫 How to reach me: tg:@seelpro, email: sergey@seel.pro
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
